@@ -1,0 +1,17 @@
+#paragraph{
+    font-size: 30px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    white-space: initial;
+}
+
+#imagewali{
+    width:200px;
+    height: 200px;
+    text-align: center;
+    line-height: 300px;
+}
+
+body{
+    background: linear-gradient(yellow, green);
+}
+
